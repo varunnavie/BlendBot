@@ -1,0 +1,21 @@
+# Python Bytecode
+*.pyc
+__pycache__/
+
+# Dependencies (Virtual Environment)
+venv/
+.venv/
+env/
+
+# Data and Models - KEEP OUT OF GIT REPO
+data/
+raw_data/
+*.h5        # Keras/TensorFlow model weights
+*.pt        # PyTorch model weights
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Files
+.ipynb_checkpoints
