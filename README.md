@@ -166,7 +166,7 @@ BlendBot is currently **under active development**.
 Several modules (model training, shade mapping, full UI integration) are still being built and refined.  
 Expect frequent updates!
 
-<h2>🤝 Contributing</h2>
+<h2> Contributing</h2>
  🚧 **Status: This is an active, ongoing project. Features and models are still under development.**  
 <p>All contributions are welcome! Feel free to open issues or pull requests.</p>
 
